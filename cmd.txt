@@ -1,0 +1,3 @@
+
+
+Scaffold-DbContext "Data Source=DESKTOP-PUBMPIF;Initial Catalog=BookStoresDB;Integrated Security=True;TrustServerCertificate=True" Microsoft.EntityFrameworkCore.SqlServer -OutputDir Models
